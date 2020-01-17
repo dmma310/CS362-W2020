@@ -32,3 +32,25 @@ def GetBoxes(nV):
     box["Thief"]=[Dominion.Thief()]*10
     box["Throne Room"]=[Dominion.Throne_Room()]*10
     return box
+
+
+#Define supply order
+def getSupplyOrder():
+    return {0: ['Curse', 'Copper'], 2: ['Estate', 'Cellar', 'Chapel', 'Moat'],
+                3: ['Silver', 'Chancellor', 'Village', 'Woodcutter', 'Workshop'],
+                4: ['Gardens', 'Bureaucrat', 'Feast', 'Militia', 'Moneylender', 'Remodel', 'Smithy', 'Spy', 'Thief',
+                    'Throne Room'],
+                5: ['Duchy', 'Market', 'Council Room', 'Festival', 'Laboratory', 'Library', 'Mine', 'Witch'],
+                6: ['Gold', 'Adventurer'], 8: ['Province']}
+
+#Construct Player Objects
+def createPlayers(playerNames):
+    players = []
+    for name in playerNames:
+        if name[0] == "*":
+            players.append(Dominion.ComputerPlayer(name[1:]))
+        elif name[0] == "^":
+            players.append(Dominion.TablePlayer(name[1:]))
+        else:
+            players.append(Dominion.Player(name))
+    return players
