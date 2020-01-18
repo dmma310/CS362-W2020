@@ -13,7 +13,8 @@ import testUtility
 player_names = ["Annie", "*Ben", "*Carla"]
 
 # number of curses and victory cards
-if len(player_names) > 2:
+#TEST SCENARIO: CHANGED IF CONDITION FROM > TO <
+if len(player_names) < 2:
     nV = 12
 else:
     nV = 8

@@ -38,7 +38,8 @@ supply["Gold"]=[Dominion.Gold()]*30
 supply["Estate"]=[Dominion.Estate()]*nV
 supply["Duchy"]=[Dominion.Duchy()]*nV
 supply["Province"]=[Dominion.Province()]*nV
-supply["Curse"]=[Dominion.Curse()]*nC
+#TEST SCENARIO: CHANGED CALCULATION TO USE nV (SHOULD BE nC)
+supply["Curse"]=[Dominion.Curse()]*nV
 
 # initialize the trash
 trash = []
