@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59f3185a-898f-4a62-8de8-b557f7640b6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CS362-W2020" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W8ZeuKwJArobqYLWxh4HK56X7K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projects/made/dominion" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+    <option name="myBranchCoverage" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projects/made/dominion" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projects/made" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for unittest_Dominion.TestGameover.test_gameover">
+    <configuration name="playDominion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS362-W2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/made/dominion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects/made/dominion/playDominion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testDominion1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS362-W2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/made/dominion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects/made/dominion/testDominion1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unittest_Dominion.TestGameover.test_gameover" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CS362-W2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/made/dominion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittest_Dominion.TestGameover.test_gameover&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unittest_Dominion.TestPlayer.test_cardsummary" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CS362-W2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/made/dominion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittest_Dominion.TestPlayer.test_cardsummary&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unittest_Dominion.TestPlayer.test_draw" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CS362-W2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/made/dominion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittest_Dominion.TestPlayer.test_draw&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for unittest_Dominion.TestGameover.test_gameover" />
+        <item itemvalue="Python.testDominion1" />
+        <item itemvalue="Python.playDominion" />
+        <item itemvalue="Python tests.Unittests for unittest_Dominion.TestPlayer.test_cardsummary" />
+        <item itemvalue="Python tests.Unittests for unittest_Dominion.TestPlayer.test_draw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59f3185a-898f-4a62-8de8-b557f7640b6b" name="Default Changelist" comment="" />
+      <created>1578533280569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578533280569</updated>
+      <workItem from="1579746346426" duration="5128000" />
+      <workItem from="1579817771928" duration="7012000" />
+      <workItem from="1579899413034" duration="4365000" />
+      <workItem from="1579927828513" duration="226000" />
+      <workItem from="1579974268240" duration="364000" />
+      <workItem from="1579990080487" duration="4160000" />
+      <workItem from="1581288989499" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="588" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579650567780">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="100" y="123" width="1240" height="588" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.788@0.23.1440.788" timestamp="1579650567780" />
+    <state width="1398" height="163" key="GridCell.Tab.0.bottom" timestamp="1579995386114">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1398" height="277" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1579995152656" />
+    <state width="1419" height="162" key="GridCell.Tab.0.bottom/0.23.1440.790@0.23.1440.790" timestamp="1579238290095" />
+    <state width="1398" height="163" key="GridCell.Tab.0.bottom/0.23.1440.792@0.23.1440.792" timestamp="1579995386114" />
+    <state width="1398" height="163" key="GridCell.Tab.0.center" timestamp="1579995386113">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1398" height="277" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1579995152655" />
+    <state width="1419" height="162" key="GridCell.Tab.0.center/0.23.1440.790@0.23.1440.790" timestamp="1579238290093" />
+    <state width="1398" height="163" key="GridCell.Tab.0.center/0.23.1440.792@0.23.1440.792" timestamp="1579995386113" />
+    <state width="1398" height="163" key="GridCell.Tab.0.left" timestamp="1579995386112">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1398" height="277" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1579995152655" />
+    <state width="1419" height="162" key="GridCell.Tab.0.left/0.23.1440.790@0.23.1440.790" timestamp="1579238290082" />
+    <state width="1398" height="163" key="GridCell.Tab.0.left/0.23.1440.792@0.23.1440.792" timestamp="1579995386112" />
+    <state width="1398" height="163" key="GridCell.Tab.0.right" timestamp="1579995386113">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1398" height="277" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1579995152655" />
+    <state width="1419" height="162" key="GridCell.Tab.0.right/0.23.1440.790@0.23.1440.790" timestamp="1579238290094" />
+    <state width="1398" height="163" key="GridCell.Tab.0.right/0.23.1440.792@0.23.1440.792" timestamp="1579995386113" />
+    <state width="1398" height="240" key="GridCell.Tab.1.bottom" timestamp="1579994392374">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.1.bottom/0.23.1440.788@0.23.1440.788" timestamp="1579994392374" />
+    <state width="1398" height="240" key="GridCell.Tab.1.center" timestamp="1579994392374">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.1.center/0.23.1440.788@0.23.1440.788" timestamp="1579994392374" />
+    <state width="1398" height="240" key="GridCell.Tab.1.left" timestamp="1579994392374">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.1.left/0.23.1440.788@0.23.1440.788" timestamp="1579994392374" />
+    <state width="1398" height="240" key="GridCell.Tab.1.right" timestamp="1579994392374">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.1.right/0.23.1440.788@0.23.1440.788" timestamp="1579994392374" />
+    <state x="221" y="57" key="SettingsEditor" timestamp="1579746386014">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="221" y="57" key="SettingsEditor/0.23.1440.788@0.23.1440.788" timestamp="1579559428082" />
+    <state x="221" y="57" key="SettingsEditor/0.23.1440.790@0.23.1440.790" timestamp="1579047972265" />
+    <state x="221" y="57" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1579746386014" />
+    <state x="397" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1579990807404">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="397" y="249" key="com.intellij.ide.util.TipDialog/0.23.1440.788@0.23.1440.788" timestamp="1579990807404" />
+    <state x="397" y="250" key="com.intellij.ide.util.TipDialog/0.23.1440.790@0.23.1440.790" timestamp="1579306908691" />
+    <state x="397" y="250" key="com.intellij.ide.util.TipDialog/0.23.1440.792@0.23.1440.792" timestamp="1579817772896" />
+    <state x="385" y="136" width="670" height="680" key="search.everywhere.popup" timestamp="1581289094094">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="385" y="135" width="670" height="676" key="search.everywhere.popup/0.23.1440.788@0.23.1440.788" timestamp="1579823777054" />
+    <state x="385" y="136" width="670" height="680" key="search.everywhere.popup/0.23.1440.792@0.23.1440.792" timestamp="1581289094094" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/projects/made/dominion/playDominion.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/projects/made/dominion/playDominion.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/projects/made/dominion/testDominion1.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_for_unittest_Dominion_TestPlayer.coverage" NAME="Unittests for unittest_Dominion.TestPlayer Coverage Results" MODIFIED="1579823717012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_for_unittest_Dominion_TestPlayer_test_draw.coverage" NAME="Unittests for unittest_Dominion.TestPlayer.test_draw Coverage Results" MODIFIED="1579904433499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_for_unittest_Dominion_TestPlayer_test_calcpoints.coverage" NAME="Unittests for unittest_Dominion.TestPlayer.test_calcpoints Coverage Results" MODIFIED="1579827158632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_for_unittest_Dominion_TestPlayer_test_cardsummary.coverage" NAME="Unittests for unittest_Dominion.TestPlayer.test_cardsummary Coverage Results" MODIFIED="1579905599585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_for_unittest_Dominion_TestAction_card_test_init.coverage" NAME="Unittests for unittest_Dominion.TestAction_card.test_init Coverage Results" MODIFIED="1579830275316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_for_unittest_Dominion_TestAction_card_test_augment.coverage" NAME="Unittests for unittest_Dominion.TestAction_card.test_augment Coverage Results" MODIFIED="1579822260642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_for_unittest_Dominion_TestGameover_test_gameover.coverage" NAME="Unittests for unittest_Dominion.TestGameover.test_gameover Coverage Results" MODIFIED="1579995377721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$playDominion.coverage" NAME="playDominion Coverage Results" MODIFIED="1579992766099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_for_unittest_Dominion_TestPlayer_test_action_balance.coverage" NAME="Unittests for unittest_Dominion.TestPlayer.test_action_balance Coverage Results" MODIFIED="1579903189366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$testDominion1.coverage" NAME="testDominion1 Coverage Results" MODIFIED="1579994277347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_for_unittest_Dominion_TestAction_card_test_use.coverage" NAME="Unittests for unittest_Dominion.TestAction_card.test_use Coverage Results" MODIFIED="1579752647914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+    <SUITE FILE_PATH="coverage/CS362_W2020$Unittests_in_unittest_Dominion_py.coverage" NAME="Unittests in unittest_Dominion.py Coverage Results" MODIFIED="1579822748851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/made/dominion" />
+  </component>
+</project>
